@@ -15,6 +15,7 @@ public class problem5 {
                 longWords++;
             }
         }
+        
         System.out.println(
             "Short: " + shortWords +
             " | Medium: " + mediumWords +
