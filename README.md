@@ -1,13 +1,16 @@
-# Session 3: OOP Concepts
-Date: 27/08/2026
+# Session 5: Access Modifiers, Encapsulation & Object Modeling
+Date: 04/09/2026
 ## 1. Daily Progress Log
-- Completed Week 3 Category B assignment problems (M1 to M5).
-- Maintained Git workflow on branch feature/session_3 and pushed all solutions.
+- Studied access modifiers, package visibility, and the mechanics of data hiding.
+- Completed Week 4 assignment problems (A1 to A5).
+- Maintained Git workflow on branch feature/session_4 and pushed all solutions.
 ## 2. Key Learnings
-- Classes and Objects
-- Constructors and Constructor Overloading
-- this Keyword and this() Constructor Chaining
-- Encapsulation and Access Modifiers (private vs. public)
-- Instance Members vs. static Members
-- Reference Variables and == Object Identity Comparison
-- Arrays of Objects
+- Access Modifiers (private, default, protected, public)
+- Package Visibility and Inheritance
+- Encapsulation and Data Hiding
+- JavaBean Standard (Getters, Setters, No-Arg Constructor)
+- Constructors (No-Arg, Parameterized, and Defensive Copying)
+- Read-Only and Write-Only Properties
+- Immutable Objects
+- final Fields and Defensive Copying
+- Object Modeling
