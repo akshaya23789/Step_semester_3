@@ -29,6 +29,7 @@ public class Canteen {
             new Payment(),
             new CardPayment()
         };
+        
         double[] amounts = {100, 50, 200, 75, 120};
         double totalCollected = 0.0;
         for (int i = 0; i < payments.length; i++) {
