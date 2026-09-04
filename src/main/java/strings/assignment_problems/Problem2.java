@@ -6,7 +6,7 @@ public class Problem2 {
         for (int i = 0; i < words.length; i++) {
             StringBuilder reversed = new StringBuilder(words[i]);
             result.append(reversed.reverse());
-            if (i < words.length - 1) {
+            if (i < words.length - 1){
                 result.append(" ");
             }
         }
