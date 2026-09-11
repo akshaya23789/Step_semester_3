@@ -1,16 +1,14 @@
-# Session 5: Access Modifiers, Encapsulation & Object Modeling
-Date: 04/09/2026
+# Session 5: Inheritance & Polymorphism
+Date: 11/09/2026
 ## 1. Daily Progress Log
-- Studied access modifiers, package visibility, and the mechanics of data hiding.
-- Completed Week 4 assignment problems (A1 to A5).
-- Maintained Git workflow on branch feature/session_4 and pushed all solutions.
+- Studied inheritance, extends, and super.
+- Completed Week 5 assignment problems.
+- Maintained Git workflow on branch feature/session_5 and pushed all solutions.
 ## 2. Key Learnings
-- Access Modifiers (private, default, protected, public)
-- Package Visibility and Inheritance
-- Encapsulation and Data Hiding
-- JavaBean Standard (Getters, Setters, No-Arg Constructor)
-- Constructors (No-Arg, Parameterized, and Defensive Copying)
-- Read-Only and Write-Only Properties
-- Immutable Objects
-- final Fields and Defensive Copying
-- Object Modeling
+- Single, Multilevel, and Hierarchical Inheritance
+- Constructor Chaining and super()
+- Method Overriding and @Override
+- Polymorphism and Dynamic Method Dispatch
+- Method Overloading and Compile-Time Polymorphism
+- Upcasting and Downcasting
+- Runtime Polymorphism and instanceof
