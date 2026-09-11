@@ -1,6 +1,6 @@
 package access_modifiers.assignment_problems;
 import java.util.Arrays;
-class LoanReceipt {
+class LoanReceipt{
     private final String memberId;
     private final String[] bookIds;
     public LoanReceipt(String memberId, String[] bookIds) {
