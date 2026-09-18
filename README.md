@@ -1,14 +1,15 @@
-# Session 5: Inheritance & Polymorphism
-Date: 11/09/2026
+# Session 6: Inheritance & Polymorphism
+Date: 18/09/2026
 ## 1. Daily Progress Log
-- Studied inheritance, extends, and super.
-- Completed Week 5 assignment problems.
-- Maintained Git workflow on branch feature/session_5 and pushed all solutions.
+- Studied the different types of inheritance and how classes share fields and methods.
+- Completed Week 6 class practice problems and assignment problems.
+- Maintained Git workflow on branch feature/session_6 and pushed all solutions.
 ## 2. Key Learnings
-- Single, Multilevel, and Hierarchical Inheritance
-- Constructor Chaining and super()
+- Types of Inheritance — Single, Multilevel, and Hierarchical
+- Using extends and super
+- Constructor Chaining
 - Method Overriding and @Override
-- Polymorphism and Dynamic Method Dispatch
-- Method Overloading and Compile-Time Polymorphism
-- Upcasting and Downcasting
-- Runtime Polymorphism and instanceof
+- Polymorphism
+- Compile-Time Polymorphism — Method Overloading
+- Runtime Polymorphism — Dynamic Dispatch, Upcasting, and Downcasting
+- instanceof and Safe Downcasting
