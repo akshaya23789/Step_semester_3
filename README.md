@@ -1,17 +1,16 @@
-## Session 7: Abstraction & Interfaces
-Date: 27/09/2026
+## Session 8: UML Diagrams
+Date: 02/10/2026
 ## 1. Daily Progress Log
-- Studied abstraction using abstract classes and interfaces.
-- Completed Week 7 class practice problems and assignment problems.
-- Maintained Git workflow on branch feature/session_7 and pushed all solutions.
+- Studied UML diagrams including class diagrams, object diagrams, and sequence diagrams.
+- Completed Week 8 class practice problems and assignment problems.
+- Maintained Git workflow on branch feature/session_8 and pushed all solutions.
 ## 2. Key Learnings
-- Abstract Classes
-- Abstract Methods
-- Interfaces
-- Implementing Multiple Interfaces
-- IS-A and CAN-DO Relationships
-- Method Overriding
-- Method Overloading
-- Compile-Time Polymorphism
-- Runtime Polymorphism
-- instanceof and Safe Casting
+- Class Diagrams
+- Object Diagrams
+- Sequence Diagrams
+- Classes and Relationships
+- Association
+- Composition
+- Object Instances
+- Runtime State
+- Method Interaction Over Time
